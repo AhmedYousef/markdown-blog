@@ -1,0 +1,6 @@
+// install digitalbrainstem.javascript-ejs-support
+
+//then add this to settings.json
+{
+    "html.format.templating": true
+}
